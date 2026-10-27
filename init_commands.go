@@ -64,7 +64,7 @@ func initCommands() map[string]cliCommand {
 		},
 		"inspect": {
 			name:        "inspect",
-			description: "Inspect a pokemon in your pokedex, tales pokemon as argument",
+			description: "Inspect a pokemon in your pokedex, takes pokemon as argument",
 			arguments:   1,
 			usage:       "'inspect <pokemon>'",
 			callback:    commandInspect,
