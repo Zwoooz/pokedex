@@ -1,3 +1,3 @@
-module github.com/zwoooz/bootdev/pokedex
+module github.com/zwoooz/pokedex
 
 go 1.27.3

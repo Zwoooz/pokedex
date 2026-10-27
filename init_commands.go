@@ -1,6 +1,6 @@
 package main
 
-import "github.com/zwoooz/bootdev/pokedex/internal/pokeapi"
+import "github.com/zwoooz/pokedex/internal/pokeapi"
 
 type url struct {
 	next     *string
